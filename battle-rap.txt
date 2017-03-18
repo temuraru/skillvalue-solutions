@@ -1,0 +1,154 @@
+
+YOUR CODE HAS BEEN COMPILED
+
+
+If all the tests have been successfully passed you can 'Finish' this test and see the results if not click on 'Review' to reedit your code.
+
+Test did not pass ...
+
+Input value(s) ...
+
+2
+Too Short, love the way you make that hit
+Here's to you, keep rhymin' and boy don't quit
+I carry big fat wads, I treat my girls like god
+Ask 'em "who do they love?" and they all say Tod ...
+
+Expected result ...
+
+1
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+2
+Very few give you that truth, it's either they can't do it
+Or can't do it in spirit, they cancel what they doing
+The samples that they using, can't get through the clearing
+I'll handle it since they just can't get you to hear it ...
+
+Expected result ...
+
+2
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+3
+Most times when I rhyme wouldn't be like that
+Cause the way I write rhymes you will comprehend
+And if you call me fake I'll say so what
+I keep rappin' to the very end ...
+
+Expected result ...
+
+3
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+2
+It's just one hard rapper spittin' a rap
+Not 3 or 4 sucka's or a couple of saps
+Like born to Mack I'll cash a check
+Walkin' 'round like a fool livin' up to his rep ...
+
+Expected result ...
+
+0
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+4
+Too Short, love the way you make that hit
+Here's to you, keep rhymin' and boy don't quit
+I carry big fat wads, I treat my girls like god
+Ask 'em "who do they love?" and they all say Tod ...
+
+Expected result ...
+
+0
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+3
+Life is Too Short I don't stop
+Life is Too Short I don't stop
+Life is Too Short I don't stop
+Life is Too Short I don't stop ...
+
+Expected result ...
+
+4
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+3
+I'm out my ramen noodle
+So I crunch rhymes, but sometimes when you combine
+We have nothing in common, poodle
+Appeal with the skin color of mine
+I'm out my ramen noodle
+So I crunch rhymes, but sometimes when you combine
+We have nothing in common, poodle
+Appeal with the skin color of mine ...
+
+Expected result ...
+
+3
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+3
+Sons, daughters, paper reporters
+Receive my command and follow our orders
+Deserves no need to explain
+Plain simple, created by the temple, the brain
+Sons, daughters, paper reporters
+Receive my command and follow our orders
+Deserves no need to explain
+Plain simple, created by the temple, the brain ...
+
+Expected result ...
+
+1
+...
+
+Test did not pass ...
+
+Input value(s) ...
+
+2
+The spin extends another plate blends and
+It corresponds to the message I've sent
+Even destroy boys with a safety pen
+Men who try to dis I discipline
+Then I'll diminish, cities I conquer
+If I'm a toy boy, I'm tough as Tonka
+Visualize me on your MTV
+These rhymes I design is called poetry ...
+
+Expected result ...
+
+0
+...
+
+Done ...
